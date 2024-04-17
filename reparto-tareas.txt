@@ -1,4 +1,19 @@
-Rafa
-Omar
-Julio
-Angela
+Omar Lerma El Atrassi
+
+4. Generación del código de los componentes y procedimientos
+8. Anexos
+
+Ángela Romero Lobo
+
+3. Desarrollo del proyecto
+7. Mantenimiento de Sistemas de Información
+
+Julio Moreno Madueño
+
+1. Introducción
+5. Especificación técnica del plan de pruebas.
+
+Rafael Palomares Linares
+
+2. Definición y Organización.
+6. Puesta en funcionamiento en el cliente.
